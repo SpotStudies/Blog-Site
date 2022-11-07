@@ -1,0 +1,97 @@
+    body {
+        font-size: 10pt;
+        font-family: 'Source Code Pro', Georgia, 'Times New Roman', Times, sans-serif;
+        color: rgb(255, 255, 255);
+        background-color: rgb(0, 0, 0);
+        line-height: 14pt;
+        padding: 5pt;
+        text-align: center;
+    }
+
+    .custom-shape-divider-top-1667472317 {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        overflow: hidden;
+        line-height: 0;
+        opacity: 0.5;
+    }
+    
+    .custom-shape-divider-top-1667472317 svg {
+        position: relative;
+        display: block;
+        width: calc(135% + 1.3px);
+        height: 75px;
+    }
+    
+    .custom-shape-divider-top-1667472317 .shape-fill {
+        fill: #f8f8f8;
+    }
+
+    h1#h1 {
+        font: 25pt 'Source Code Pro', Georgia, 'Times New Roman', Times, sans-serif;
+        font-weight: bolder;
+        line-height: 31pt;
+        color: rgb(255, 255, 255);
+        text-align: center;
+    }
+
+    h2.header2 {
+        font: 20pt 'Source Code Pro', Georgia, 'Times New Roman', Times, sans-serif;
+        font-weight: bolder;
+        color: 255, 255, 255;
+        text-align: center;
+    }
+    
+    h3.header3 {
+        font: 18pt 'Source Code Pro', Georgia, 'Times New Roman', Times, sans-serif;
+        font-style: normal;
+        font-weight: bold;
+        color: 255, 255, 255;
+        text-align: center;
+    }
+
+    p.subheader {
+        font: 15pt 'Source Code Pro', Georgia, 'Times New Roman', Times, sans-serif;
+        text-align: center;
+    }
+
+    footer#foot {
+        font: 12pt 'Source Code Pro', Georgia, 'Times New Roman', Times, sans-serif;
+        text-align: center;
+    }
+
+    img#image_youtube {
+        border-radius: 50%;
+        border: 3px solid rgb(255, 0, 0);
+    }
+
+    img#image_discord {
+        border-radius: 30%;
+        border: 3px solid rgb(0, 13, 255);
+    }
+
+    img#image_fiverr {
+        border-radius: 30%;
+        border: 3px solid rgb(12, 159, 36);
+    }
+
+    img#spex {
+        border-radius: 10%;
+        border: 3px solid rgba(0, 128, 255, 0.863);
+    }
+
+    img#starting_img {
+        border-radius: 10%;
+        border: 3px solid rgb(255, 153, 0);
+    }
+
+    img#donation {
+        border-radius: 10%;
+        border:3px solid rgb(0, 255, 174);
+    }
+
+    a.a {
+        color: rgb(0, 217, 255)
+    }
